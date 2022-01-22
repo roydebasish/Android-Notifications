@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="CHANNEL_ID1">news</string>
+    <string name="CHANNEL_ID2">game</string>
+    <string name="CHANNEL_ID3">offer</string>
+    <string name="CHANNEL_ID4">info</string>
+    <string name="CHANNEL_ID5">update</string>
+    <string name="CHANNEL_ID6">message</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_GAME">Game</string>
+    <string name="CHANNEL_OFFER">Offer</string>
+    <string name="CHANNEL_INFO">Info</string>
+    <string name="CHANNEL_UPDATE">Update</string>
+    <string name="CHANNEL_MESSAGE">Update</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+
+    <string name="massage1">This is massage 1</string>
+    <string name="massage2">This is massage 2</string>
+    <string name="massage3">This is massage 3</string>
+    <string name="reply_name">Justin</string>
+
+
+    <string name="big_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+</resources>

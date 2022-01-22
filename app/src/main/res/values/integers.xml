@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="notificationId1">1</integer>
+    <integer name="notificationId2">2</integer>
+    <integer name="notificationId3">3</integer>
+    <integer name="notificationId4">4</integer>
+    <integer name="notificationId5">5</integer>
+    <integer name="notificationId6">6</integer>
+</resources>
